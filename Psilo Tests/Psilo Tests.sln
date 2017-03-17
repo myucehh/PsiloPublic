@@ -1,11 +1,11 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{B79F109C-56A4-31A0-7F05-3743DACDC3CE}") = "Psilo Tests", "Assembly-CSharp-firstpass.csproj", "{5F3F2B87-6B3C-6C02-2BA0-B8B54CD06E18}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Psilo Tests", "Assembly-CSharp-firstpass.csproj", "{5F3F2B87-6B3C-6C02-2BA0-B8B54CD06E18}"
 EndProject
-Project("{B79F109C-56A4-31A0-7F05-3743DACDC3CE}") = "Psilo Tests", "Assembly-CSharp.csproj", "{3986DFFC-8553-2B88-AA2A-B7D47F499636}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Psilo Tests", "Assembly-CSharp.csproj", "{3986DFFC-8553-2B88-AA2A-B7D47F499636}"
 EndProject
-Project("{B79F109C-56A4-31A0-7F05-3743DACDC3CE}") = "Psilo Tests", "Assembly-CSharp-Editor-firstpass.csproj", "{5B0D2880-684B-5AA4-7564-6EFFA5169D4F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Psilo Tests", "Assembly-CSharp-Editor-firstpass.csproj", "{5B0D2880-684B-5AA4-7564-6EFFA5169D4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
